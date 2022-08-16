@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leminh98
-- 👀 I’m interested in cloud databases, game design and making gaming in general
+- 👀 I’m interested in cloud databases, game design and making games in general
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me ...
